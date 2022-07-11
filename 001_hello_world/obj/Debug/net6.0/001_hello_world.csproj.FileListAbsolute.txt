@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\examplse\001_hello_world\bin\Debug\net6.0\001_hello_world.exe
+C:\Users\Acer\Desktop\examplse\001_hello_world\bin\Debug\net6.0\001_hello_world.deps.json
+C:\Users\Acer\Desktop\examplse\001_hello_world\bin\Debug\net6.0\001_hello_world.runtimeconfig.json
+C:\Users\Acer\Desktop\examplse\001_hello_world\bin\Debug\net6.0\001_hello_world.dll
+C:\Users\Acer\Desktop\examplse\001_hello_world\bin\Debug\net6.0\001_hello_world.pdb
+C:\Users\Acer\Desktop\examplse\001_hello_world\obj\Debug\net6.0\001_hello_world.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\examplse\001_hello_world\obj\Debug\net6.0\001_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\examplse\001_hello_world\obj\Debug\net6.0\001_hello_world.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\examplse\001_hello_world\obj\Debug\net6.0\001_hello_world.AssemblyInfo.cs
+C:\Users\Acer\Desktop\examplse\001_hello_world\obj\Debug\net6.0\001_hello_world.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\examplse\001_hello_world\obj\Debug\net6.0\001_hello_world.dll
+C:\Users\Acer\Desktop\examplse\001_hello_world\obj\Debug\net6.0\refint\001_hello_world.dll
+C:\Users\Acer\Desktop\examplse\001_hello_world\obj\Debug\net6.0\001_hello_world.pdb
+C:\Users\Acer\Desktop\examplse\001_hello_world\obj\Debug\net6.0\001_hello_world.genruntimeconfig.cache
+C:\Users\Acer\Desktop\examplse\001_hello_world\obj\Debug\net6.0\ref\001_hello_world.dll
